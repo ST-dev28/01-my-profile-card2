@@ -25,7 +25,6 @@ body {
   min-height: 100vh;
   align-items: center;
   justify-content: center;
-  /*font-family: var(--ff-kumbh);*/
   font-size: 18px;
   background-image: url(./img/background2.jpg);
   background-repeat: no-repeat;
@@ -58,7 +57,6 @@ body {
   border: 2px solid #fff;
   background-size: contain;
   background-position: center;
-  /*filter: blur(4px);*/
   position: absolute;
   top: 90px;
   left: calc(50% - 60px);
@@ -104,10 +102,6 @@ body {
 
 .description > a {
   margin-top: 5px;
-  /*font-size: 0.8rem;
-  font-weight: 500;
-  color: var(--clr-navy);
-  letter-spacing: 1px;*/
   color: var(--clr-navy);
   width: 30px;
   height: 30px;
@@ -119,10 +113,6 @@ body {
 
 .fa {
   text-decoration: none;
-}
-
-.stats :nth-child(2) {
-  margin-right: 10px;
 }
 
 .links {
