@@ -105,16 +105,16 @@ body {
   color: var(--clr-navy);
   width: 30px;
   height: 30px;
-  text-align: center;
-  line-height: 24px;
   border-radius: 15px;
   border: 2px solid var(--clr-navy);
 }
 
 .fa {
   text-decoration: none;
-  margin-top: 5px;
-   color: var(--clr-navy);
+  padding: 5px;
+  color: var(--clr-navy);
+  text-align: center;
+  line-height: 24px;
 }
 
 .links {
