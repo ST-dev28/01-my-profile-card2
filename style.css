@@ -100,7 +100,7 @@ body {
   text-align: center;
 }
 
-.description {
+.description > a {
   margin-top: 5px;
   color: var(--clr-navy);
   width: 30px;
